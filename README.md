@@ -1,3 +1,12 @@
+#Live Link
+https://sensational-eclair-0fb082.netlify.app/
+
+##GitHub Backend Link
+https://github.com/Hieu12319/portfolio-backend
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
